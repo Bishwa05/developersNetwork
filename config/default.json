@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://bishwa05:bishwa05@mycluster-dt4ux.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtToken": "mysecrettoken"
+    "jwtToken": "mysecrettoken",
+    "githubClientId": "72a8b6db2e7ab9f3a050",
+    "githubSecret": "9a1a35239679d7ab0bd6da94252e69879a902205"
 }
